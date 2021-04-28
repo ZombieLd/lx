@@ -2,5 +2,8 @@
 # -*- coding: UTF-8 -*-
 
 def first_sample():
-  print("Hello World !")
-  
+    print("Hello World !")
+
+
+if __name__ == '__main__':
+    first_sample()
